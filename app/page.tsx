@@ -9,6 +9,7 @@ export default function Home() {
         <p>Lets do it guys, and will see where this leads us</p>
 
         <p>Speed insights added</p>
+        <p>Speed posthog added</p>
       </main>
     </div>
   );
