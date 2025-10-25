@@ -44,6 +44,7 @@ export async function connectToDatabase(): Promise<typeof mongoose> {
     const opts = {
       bufferCommands: true,
       maxPoolSize: 10,
+      dbName: 'afg-crawler-db',
     };
 
     // Create a new connection promise
