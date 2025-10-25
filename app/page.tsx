@@ -7,6 +7,8 @@ export default function Home() {
         <h1 className='text-4xl font-bold'>Welcome to the AFG Crawler App!</h1>
         <h2>Every journey begins with a single step.</h2>
         <p>Lets do it guys, and will see where this leads us</p>
+
+        <p>Speed insights added</p>
       </main>
     </div>
   );
